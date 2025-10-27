@@ -11,4 +11,5 @@ def classificarImc(imc):
 imc = calcularImc(95, 1.80)
 print(imc)
 classificarImc(imc)
+print('hahaha...imc py')
 

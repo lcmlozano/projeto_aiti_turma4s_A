@@ -1,0 +1,1 @@
+print('Essa é a classe A')
